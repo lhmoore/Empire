@@ -1,7 +1,7 @@
 .container {
   height: 100vh;
   width: 100vw;       
-  background: url(Empire.jpg);
+  background: url(empire.jpg);
   background-size: cover;
 }
 
